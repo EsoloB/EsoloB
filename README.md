@@ -1,9 +1,6 @@
 ## About
 
-I am a student at Albion College, with a focus on Computer Science and Data Analytics. I am an athlete and compete in Swim and Dive as well as Esports on campus. I love coaching and helping others and wish to continue in a career of sport data analytics. 
+I am a student at Albion College, focusing on Computer Science and Data Analytics. I am also an athlete, competing in Swim & Dive, and Esports on campus. I love coaching and helping others succeed, and I wish to continue a career in sports data analytics. 
 
-### Social Media, etc
 
-- [LinkedIn]
-- [Email]
-- 
+- [Email] EMB22@albion.edu 
